@@ -4,11 +4,10 @@ import { FaBars, FaTimes } from "react-icons/fa";
 import { BsSnow } from "react-icons/bs";
 
 const NavbarMenu = [
-  { id: 1, title: "Home", path: "/" },
-  { id: 2, title: "Services", path: "#" },
-  { id: 3, title: "About Us", path: "#" },
-  { id: 4, title: "Our Team", path: "/" },
-  { id: 5, title: "Contact Us", path: "#" },
+  { id: 1, title: "ANA SAYFA", path: "/" },
+  { id: 3, title: "KURUMSAL", path: "#" },
+  { id: 4, title: "FAALİYETLERİMİZ", path: "#" },
+  { id: 5, title: "ILETİŞİM", path: "#" },
 ];
 
 const Navbar = () => {

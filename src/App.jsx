@@ -4,7 +4,7 @@ import About from './components/About/About';
 import Layout from './components/Layout/layout';
 import Slider from './components/Slider/Slider';
 import TopBar from './components/Top/top';
-import Services from './components/Service/Service';
+import OrganizationPage from './components/Organisation/Organisation';
 import Footer from './components/Footer/Footer';
 const App = () => {
   return (
@@ -13,7 +13,7 @@ const App = () => {
       <Layout />
       <Slider />
       <About />
-      <Services />
+      <OrganizationPage />
       <Footer />
       
     </div>
